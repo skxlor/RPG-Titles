@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:oak_sign",
+            "nbt": "{Enchantments:[{}]}"
+        },
+        "title": {
+            "translate": "RPG Titles"
+        },
+        "description": {
+            "translate": "Adds titles to Minecraft!"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:izukika",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

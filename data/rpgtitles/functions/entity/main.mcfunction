@@ -1,0 +1,1 @@
+execute as @a run function rpgtitles:entity/player/main
