@@ -1,1 +1,1 @@
-execute as @a run function rpgtitles:entity/player/main
+execute as @a at @s run function rpgtitles:entity/player/main
