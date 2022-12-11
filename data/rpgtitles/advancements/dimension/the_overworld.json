@@ -1,0 +1,27 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "minecraft:the_end",
+                "to": "minecraft:overworld"
+            }
+        },
+        "requirement2": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "minecraft:the_nether",
+                "to": "minecraft:overworld"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "requirement",
+            "requirement2"
+        ]
+    ],
+    "rewards": {
+        "function": "rpgtitles:titles/dimension/the_overworld"
+    }
+}

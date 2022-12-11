@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "minecraft:overworld",
+                "to": "minecraft:the_end"
+            }
+        }
+    },
+    "rewards": {
+        "function": "rpgtitles:titles/dimension/the_end"
+    }
+}
