@@ -1,5 +1,4 @@
 scoreboard objectives add gamerule.repeatBossTitles trigger
-scoreboard objectives add gamerule.repeatBiomeTitles trigger
 scoreboard objectives add gamerule.repeatDimensionTitles trigger
 scoreboard objectives add gamerule.showCurrentBiome trigger
 
