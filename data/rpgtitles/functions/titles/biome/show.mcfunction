@@ -60,3 +60,4 @@ execute if predicate rpgtitles:entity/player/in_biome/windswept_gravelly_hills r
 execute if predicate rpgtitles:entity/player/in_biome/windswept_hills run title @s actionbar {"text":"Biome: Windswept Hills","color": "green"}
 execute if predicate rpgtitles:entity/player/in_biome/windswept_savanna run title @s actionbar {"text":"Biome: Windswept Savanna","color": "green"}
 execute if predicate rpgtitles:entity/player/in_biome/windswept_badlands run title @s actionbar {"text":"Biome: Windswept Badlands","color": "green"}
+execute if predicate rpgtitles:entity/player/in_biome/wooded_badlands run title @s actionbar {"text":"Biome: Wooded Badlands","color": "green"}
