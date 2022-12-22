@@ -77,3 +77,4 @@ execute if predicate rpgtitles:entity/player/in_biome/terralith/birch_taiga run 
 execute if predicate rpgtitles:entity/player/in_biome/terralith/blooming_plateau run title @s actionbar {"text":"Biome: Blooming Plateau","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/blooming_valley run title @s actionbar {"text":"Biome: Blooming Valley","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/brushland run title @s actionbar {"text":"Biome: Brushland","color": "aqua"}
+execute if predicate rpgtitles:entity/player/in_biome/terralith/bryce_canyon run title @s actionbar {"text":"Biome: Bryce Canyon","color": "aqua"}
