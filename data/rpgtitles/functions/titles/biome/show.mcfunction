@@ -75,3 +75,4 @@ execute if predicate rpgtitles:entity/player/in_biome/terralith/ashen_savannah r
 execute if predicate rpgtitles:entity/player/in_biome/terralith/basalt_cliffs run title @s actionbar {"text":"Biome: Basalt Cliffs","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/birch_taiga run title @s actionbar {"text":"Biome: Birch Taiga","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/blooming_plateau run title @s actionbar {"text":"Biome: Blooming Plateau","color": "aqua"}
+execute if predicate rpgtitles:entity/player/in_biome/terralith/blooming_valley run title @s actionbar {"text":"Biome: Blooming Valley","color": "aqua"}
