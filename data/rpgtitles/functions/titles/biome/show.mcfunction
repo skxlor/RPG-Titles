@@ -71,3 +71,4 @@ execute if predicate rpgtitles:entity/player/in_biome/terralith/amethyst_canyon 
 execute if predicate rpgtitles:entity/player/in_biome/terralith/amethyst_rainforest run title @s actionbar {"text":"Biome: Amethyst Rainforest","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/ancient_sands run title @s actionbar {"text":"Biome: Ancient Sands","color": "aqua"}
 execute if predicate rpgtitles:entity/player/in_biome/terralith/arid_highlands run title @s actionbar {"text":"Biome: Arid Highlands","color": "aqua"}
+execute if predicate rpgtitles:entity/player/in_biome/terralith/ashen_savannah run title @s actionbar {"text":"Biome: Ashen Savannah","color": "aqua"}
