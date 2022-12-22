@@ -64,3 +64,4 @@ execute if predicate rpgtitles:entity/player/in_biome/wooded_badlands run title 
 
 # Terralith Biomes
 execute if predicate rpgtitles:entity/player/in_biome/terralith/alpha_islands run title @s actionbar {"text":"Biome: Alpha Islands","color": "aqua"}
+execute if predicate rpgtitles:entity/player/in_biome/terralith/alpha_islands_winter run title @s actionbar {"text":"Biome: Winter Alpha Islands","color": "aqua"}
