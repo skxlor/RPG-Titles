@@ -2,9 +2,9 @@ from PySide6.QtCore import Qt
 from PySide6.QtWidgets import QMainWindow, QApplication, QHBoxLayout, QVBoxLayout, QLabel, QWidget, QLineEdit, QPushButton
 
 show_file = r"./data/rpgtitles/functions/titles/biome/show.mcfunction"
-pred_folder = r"./data/rpgtitles/predicates/entity/player/in_biome/BIOME_ID.json"
+pred_folder = r"./data/rpgtitles/predicates/entity/player/in_biome/terralith/BIOME_ID.json"
 
-command_template = 'execute if predicate rpgtitles:entity/player/in_biome/BIOME_ID run title @s actionbar {"text":"Biome: BIOME_NAME","color": "green"}'
+command_template = 'execute if predicate rpgtitles:entity/player/in_biome/terralith/BIOME_ID run title @s actionbar {"text":"Biome: BIOME_NAME","color": "aqua"}'
 predicate_template = '''{
     "condition": "minecraft:entity_properties",
     "entity": "this",
