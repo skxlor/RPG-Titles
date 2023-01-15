@@ -4,7 +4,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:badlands"
+            "biome": "terralith:alpha_islands"
         }
     }
 },
@@ -13,7 +13,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:bamboo_jungle"
+            "biome": "terralith:alpha_islands_winter"
         }
     }
 },
@@ -22,7 +22,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:basalt_deltas"
+            "biome": "terralith:alpine_grove"
         }
     }
 },
@@ -31,7 +31,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:beach"
+            "biome": "terralith:alpine_higlands"
         }
     }
 },
@@ -40,7 +40,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:birch_forest"
+            "biome": "terralith:amethyst_canyon"
         }
     }
 },
@@ -49,7 +49,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:cold_ocean"
+            "biome": "terralith:amethyst_rainforest"
         }
     }
 },
@@ -58,7 +58,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:crimson_forest"
+            "biome": "terralith:ancient_sands"
         }
     }
 },
@@ -67,7 +67,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:dark_forest"
+            "biome": "terralith:arid_highlands"
         }
     }
 },
@@ -76,7 +76,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:deep_cold_ocean"
+            "biome": "terralith:ashen_savanna"
         }
     }
 },
@@ -85,7 +85,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:deep_dark"
+            "biome": "terralith:basalt_cliffs"
         }
     }
 },
@@ -94,7 +94,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:deep_frozen_ocean"
+            "biome": "terralith:birch_taiga"
         }
     }
 },
@@ -103,7 +103,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:deep_lukewarm_ocean"
+            "biome": "terralith:blooming_plateau"
         }
     }
 },
@@ -112,7 +112,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:deep_ocean"
+            "biome": "terralith:blooming_valley"
         }
     }
 },
@@ -121,7 +121,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:desert"
+            "biome": "terralith:brushland"
         }
     }
 },
@@ -130,7 +130,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:dripstone_caves"
+            "biome": "terralith:bryce_canyon"
         }
     }
 },
@@ -139,7 +139,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:end_barrens"
+            "biome": "terralith:caldera"
         }
     }
 },
@@ -148,7 +148,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:end_highlands"
+            "biome": "terralith:cloud_forest"
         }
     }
 },
@@ -157,7 +157,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:end_midlands"
+            "biome": "terralith:cold_shrubland"
         }
     }
 },
@@ -166,7 +166,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:eroded_badlands"
+            "biome": "terralith:desert_canyon"
         }
     }
 },
@@ -175,7 +175,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:flower_forest"
+            "biome": "terralith:desert_oasis"
         }
     }
 },
@@ -184,7 +184,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:forest"
+            "biome": "terralith:desert_spires"
         }
     }
 },
@@ -193,7 +193,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:frozen_ocean"
+            "biome": "terralith:emerald_peaks"
         }
     }
 },
@@ -202,7 +202,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:frozen_peaks"
+            "biome": "terralith:forested_highlands"
         }
     }
 },
@@ -211,7 +211,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:frozen_river"
+            "biome": "terralith:fractured_savanna"
         }
     }
 },
@@ -220,7 +220,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:grove"
+            "biome": "terralith:frozen_cliffs"
         }
     }
 },
@@ -229,7 +229,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:ice_spikes"
+            "biome": "terralith:glacial_chasm"
         }
     }
 },
@@ -238,7 +238,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:jagged_peaks"
+            "biome": "terralith:granite_cliffs"
         }
     }
 },
@@ -247,7 +247,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:jungle"
+            "biome": "terralith:gravel_beach"
         }
     }
 },
@@ -256,7 +256,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:lukewarm_ocean"
+            "biome": "terralith:gravel_desert"
         }
     }
 },
@@ -265,7 +265,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:lush_caves"
+            "biome": "terralith:haze_mountain"
         }
     }
 },
@@ -274,7 +274,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:mangrove_swamp"
+            "biome": "terralith:highlands"
         }
     }
 },
@@ -283,7 +283,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:meadow"
+            "biome": "terralith:hot_shrubland"
         }
     }
 },
@@ -292,7 +292,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:mushroom_fields"
+            "biome": "terralith:ice_marsh"
         }
     }
 },
@@ -301,7 +301,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:nether_wastes"
+            "biome": "terralith:jungle_mountains"
         }
     }
 },
@@ -310,7 +310,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:ocean"
+            "biome": "terralith:lavender_forest"
         }
     }
 },
@@ -319,7 +319,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:old_growth_birch_forest"
+            "biome": "terralith:lavender_valley"
         }
     }
 },
@@ -328,7 +328,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:old_growth_pine_taiga"
+            "biome": "terralith:lush_desert"
         }
     }
 },
@@ -337,7 +337,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:old_growth_spruce_taiga"
+            "biome": "terralith:lush_valley"
         }
     }
 },
@@ -346,7 +346,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:plains"
+            "biome": "terralith:mirage_isles"
         }
     }
 },
@@ -355,7 +355,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:river"
+            "biome": "terralith:moonlight_grove"
         }
     }
 },
@@ -364,7 +364,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:savanna"
+            "biome": "terralith:moonlight_valley"
         }
     }
 },
@@ -373,7 +373,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:savanna_plateau"
+            "biome": "terralith:orchid_swamp"
         }
     }
 },
@@ -382,7 +382,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:small_end_islands"
+            "biome": "terralith:painted_mountains"
         }
     }
 },
@@ -391,7 +391,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:snowy_beach"
+            "biome": "terralith:red_oasis"
         }
     }
 },
@@ -400,7 +400,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:snowy_plains"
+            "biome": "terralith:rocky_jungle"
         }
     }
 },
@@ -409,7 +409,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:snowy_slopes"
+            "biome": "terralith:rocky_mountains"
         }
     }
 },
@@ -418,7 +418,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:snowy_taiga"
+            "biome": "terralith:rocky_shrubland"
         }
     }
 },
@@ -427,7 +427,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:soul_sand_valley"
+            "biome": "terralith:sakura_grove"
         }
     }
 },
@@ -436,7 +436,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:sparse_jungle"
+            "biome": "terralith:sakura_valley"
         }
     }
 },
@@ -445,7 +445,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:stony_peaks"
+            "biome": "terralith:sandstone_valley"
         }
     }
 },
@@ -454,7 +454,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:stony_shore"
+            "biome": "terralith:savanna_badlands"
         }
     }
 },
@@ -463,7 +463,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:sunflower_plains"
+            "biome": "terralith:savanna_slopes"
         }
     }
 },
@@ -472,7 +472,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:swamp"
+            "biome": "terralith:scarlet_mountains"
         }
     }
 },
@@ -481,7 +481,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:taiga"
+            "biome": "terralith:shield_clearing"
         }
     }
 },
@@ -490,7 +490,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:the_end"
+            "biome": "terralith:shield"
         }
     }
 },
@@ -499,7 +499,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:the_void"
+            "biome": "terralith:shrubland"
         }
     }
 },
@@ -508,7 +508,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:warm_ocean"
+            "biome": "terralith:siberian_grove"
         }
     }
 },
@@ -517,7 +517,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:warped_forest"
+            "biome": "terralith:siberian_taiga"
         }
     }
 },
@@ -526,7 +526,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:windswept_forest"
+            "biome": "terralith:skylands"
         }
     }
 },
@@ -535,7 +535,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:windswept_gravelly_hills"
+            "biome": "terralith:skylands_autumn"
         }
     }
 },
@@ -544,7 +544,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:windswept_hills"
+            "biome": "terralith:skylands_spring"
         }
     }
 },
@@ -553,7 +553,7 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:windswept_savanna"
+            "biome": "terralith:skylands_summer"
         }
     }
 },
@@ -562,7 +562,313 @@
     "entity": "this",
     "predicate": {
         "location": {
-            "biome": "minecraft:wooded_badlands"
+            "biome": "terralith:skylands_winter"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:snowy_badlands"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:snowy_maple_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:snowy_shield"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:steppe"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:stony_spires"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:temperate_highlands"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:tropical_jungle"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:valley_clearing"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:volcanic_crater"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:volcanic_peaks"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:warm_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:warped_mesa"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:white_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:white_mesa"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:windswept_spires"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:wintry_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:wintry_lowlands"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:yellowstone"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:yosemite_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:yosemite_lowlands"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/andesite_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/desert_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/diorite_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/fungal_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/granite_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/ice_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/infested_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/thermal_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/underground_jungle"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/crystal_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/deep_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/frostfire_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/mantle_caves"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "terralith:cave/tuff_caves"
         }
     }
 }
