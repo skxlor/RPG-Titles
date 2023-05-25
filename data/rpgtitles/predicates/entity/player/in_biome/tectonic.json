@@ -1,0 +1,277 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:alpine_meadow"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:ancient_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:autumn_birch_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:autumn_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:badlands_spires"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:cold_beach"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:cold_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:cold_plains"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:cold_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:coral_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:desert_dunes"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:dripstone_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:evergreen_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:grasslands"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:icy_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:icy_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:island"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lagoon"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lantern_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lukewarm_beach"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lukewarm_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lukewarm_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:lush_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:old_growth_evergreen_forest"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:old_growth_snowy_taiga"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:red_desert"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:red_desert_dunes"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:sandstone_cliffs"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:warm_river"
+        }
+    }
+},
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:white_cliffs"
+        }
+    }
+}
+    ]
+  }
+  
