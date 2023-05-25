@@ -1,0 +1,10 @@
+
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "location": {
+            "biome": "tectonic:red_desert"
+        }
+    }
+}

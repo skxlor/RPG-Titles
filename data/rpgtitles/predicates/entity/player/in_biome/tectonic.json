@@ -1,4 +1,7 @@
-
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      
 {
     "condition": "minecraft:entity_properties",
     "entity": "this",
@@ -269,3 +272,6 @@
         }
     }
 }
+    ]
+  }
+  

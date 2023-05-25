@@ -7,7 +7,8 @@ predicate_folder = r"./data/rpgtitles/predicates/entity/player/in_biome/NAMESPAC
 
 colors = {
     "minecraft": "green",
-    "terralith": "aqua"
+    "terralith": "aqua",
+    "tectonic": "light_purple"
 }
 
 command_template = 'execute if predicate rpgtitles:entity/player/in_biome/NAMESPACE/BIOME_ID run title @s actionbar {"text":"Biome: BIOME_NAME","color": "UCOLOR"}'
